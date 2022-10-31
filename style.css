@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.ramen-gif {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    list-style: none;
+}
