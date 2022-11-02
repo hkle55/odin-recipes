@@ -12,7 +12,7 @@ html {
 
 .describe {
     text-align: center;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;\
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     
 }
 
@@ -23,6 +23,11 @@ html {
 }
 
 .instructions {
+    text-align: left;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.optional {
     text-align: left;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
