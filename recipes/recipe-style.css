@@ -13,21 +13,28 @@ html {
 .describe {
     text-align: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    
+    font-size: 36px;
 }
 
 .ingredients {
     text-align: left;
-    font-size: larger;
+    font-size: 40px;
     font-family:"Comic Sans MS", "Comic Sans", cursive;
 }
 
 .instructions {
     text-align: left;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 26px;
 }
 
 .optional {
     text-align: left;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.suggest {
+    text-align: left;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
 }
