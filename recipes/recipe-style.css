@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(92, 188, 243);
+}
+
+
+
+.heading {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+.describe {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;\
+    
+}
+
+.ingredients {
+    text-align: left;
+    font-size: larger;
+    font-family:"Comic Sans MS", "Comic Sans", cursive;
+}
+
+.instructions {
+    text-align: left;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
